@@ -1,0 +1,10 @@
+-=Erstellt von SammyB, 12.12.2016=-
+-=Konzept - Spiel - Info II=-
+
+Mein Spiel soll ein kurzes Textadventure werden, welches sich das Framework von Java zunutze macht, in welches ich mich einarbeiten werde.
+Das alles wird voraussichtlich mit Arrays funktionieren.
+
+Über die Geschichte bin ich mir noch nicht ganz klar. Entweder es geht um ein junges Mädchen mit einer schweren Krankheit und einem Wissenschaftler, die sich zusammen tun um ihre Artgenossen zu finden - nämlich Engel.
+Oder um Pavel, den mitten in einer Identitätskrise steckenden jungen Mann, der seine ersten Schritte zur Entdeckung des Kerns seines Dorfes macht.
+
+Auf jeden Fall soll es kein großes Adventure-Spiel werden.
